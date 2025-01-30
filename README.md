@@ -1,7 +1,7 @@
-A NativeSoft Tech Project
+<h1>A NativeSoft Tech Project</h1>
 
 #realtime chatapp
 chat with people and groups
 
 
-<h1>currently Under Devlopment</h1>
+<h3>currently Under Devlopment</h3>
